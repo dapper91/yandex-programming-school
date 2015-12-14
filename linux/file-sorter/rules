@@ -1,0 +1,10 @@
+binaries:bin,run,out,so,o,a;
+audio:mp3,mp2,ac3,aac,wav,flac,m4a,m3u;
+video:mp4,mkv,avi,asf,flv,mov,mpg,mpeg,mpe,ogg,wmv;
+photo:jpg,jp2,jps,bmp,png,gif,ico,tiff,raw,svg;
+documents:txt,doc,docx,odt,pdf,djvu,rtf,csv,dot,tex,epub;
+web:html,xhtml,htm,xml,json,md,js,xsl,dtd,asp,cgi,jsp,;
+archives:7z,apk,bz2,cab,deb,egg,gzip,jar,lz,lzo,lzma,rar,tar,gz,zip;
+images:iso,nrg,img,md5,mdx,dmg,vmdk,vdi,cow,qcow,qcow2;
+databases:db,frm,gdb,mdb,myd,myi;
+programming:c,cpp,h,py,pl,php,bat,r,rb,tcl,cs,d,clj,ada,asm,s,go,m,scm;

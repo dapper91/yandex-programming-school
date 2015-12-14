@@ -1,0 +1,169 @@
+start
+dimention:2  points:1000  clusters:2
+0:00.12
+
+dimention:2  points:1000  clusters:4
+0:00.13
+
+dimention:2  points:1000  clusters:8
+0:00.40
+
+dimention:2  points:1000  clusters:16
+0:00.27
+
+
+
+dimention:2  points:10000  clusters:2
+0:00.24
+
+dimention:2  points:10000  clusters:4
+0:00.38
+
+dimention:2  points:10000  clusters:8
+0:00.41
+
+dimention:2  points:10000  clusters:16
+0:01.27
+
+
+
+dimention:2  points:100000  clusters:2
+0:00.72
+
+dimention:2  points:100000  clusters:4
+0:00.32
+
+dimention:2  points:100000  clusters:8
+0:00.60
+
+dimention:2  points:100000  clusters:16
+0:02.24
+
+
+
+dimention:2  points:1000000  clusters:2
+0:01.94
+
+dimention:2  points:1000000  clusters:4
+0:02.65
+
+dimention:2  points:1000000  clusters:8
+0:05.55
+
+dimention:2  points:1000000  clusters:16
+0:17.84
+
+
+
+dimention:4  points:1000  clusters:2
+0:00.10
+
+dimention:4  points:1000  clusters:4
+0:00.27
+
+dimention:4  points:1000  clusters:8
+0:00.35
+
+dimention:4  points:1000  clusters:16
+0:00.63
+
+
+
+dimention:4  points:10000  clusters:2
+0:00.21
+
+dimention:4  points:10000  clusters:4
+0:00.65
+
+dimention:4  points:10000  clusters:8
+0:00.55
+
+dimention:4  points:10000  clusters:16
+0:00.75
+
+
+
+dimention:4  points:100000  clusters:2
+0:00.71
+
+dimention:4  points:100000  clusters:4
+0:00.67
+
+dimention:4  points:100000  clusters:8
+0:03.14
+
+dimention:4  points:100000  clusters:16
+0:00.96
+
+
+
+dimention:4  points:1000000  clusters:2
+0:05.48
+
+dimention:4  points:1000000  clusters:4
+0:04.99
+
+dimention:4  points:1000000  clusters:8
+0:07.27
+
+dimention:4  points:1000000  clusters:16
+0:47.08
+
+
+
+dimention:16  points:1000  clusters:2
+0:00.20
+
+dimention:16  points:1000  clusters:4
+0:00.18
+
+dimention:16  points:1000  clusters:8
+0:00.14
+
+dimention:16  points:1000  clusters:16
+0:00.32
+
+
+
+dimention:16  points:10000  clusters:2
+0:00.25
+
+dimention:16  points:10000  clusters:4
+0:00.40
+
+dimention:16  points:10000  clusters:8
+0:00.32
+
+dimention:16  points:10000  clusters:16
+0:00.70
+
+
+
+dimention:16  points:100000  clusters:2
+0:01.44
+
+dimention:16  points:100000  clusters:4
+0:01.05
+
+dimention:16  points:100000  clusters:8
+0:13.36
+
+dimention:16  points:100000  clusters:16
+0:18.37
+
+
+
+dimention:16  points:1000000  clusters:2
+0:08.26
+
+dimention:16  points:1000000  clusters:4
+0:18.27
+
+dimention:16  points:1000000  clusters:8
+0:18.04
+
+dimention:16  points:1000000  clusters:16
+2:25.19
+
+finish
+
